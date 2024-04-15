@@ -2,7 +2,7 @@
 
 # Todo
 
-[ ] - Wallet connect
-[ ] - Dummy transaction creation/trigger
-[ ] - Request gas sponsorship
-[ ] - Gas sponsorship
+- [ ] Wallet connect
+- [ ] Dummy transaction creation/trigger
+- [ ] Request gas sponsorship
+- [ ] Gas sponsorship
